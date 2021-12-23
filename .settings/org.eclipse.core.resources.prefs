@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/main/java/airtrip/Controller/AccountAdminController.java=UTF-8
+encoding//src/main/java/airtrip/Controller/AccountController.java=UTF-8
+encoding//src/main/java/airtrip/Controller/BookRoomController.java=UTF-8
+encoding//src/main/java/airtrip/Controller/CategoryController.java=UTF-8
+encoding//src/main/java/airtrip/Controller/PlaceController.java=UTF-8
+encoding//src/main/java/airtrip/Controller/ReviewController.java=UTF-8
+encoding//src/main/java/airtrip/Model/dao/BookRoomdao.java=UTF-8
+encoding//src/main/webapp/WEB-INF/views/index.jsp=UTF-8
